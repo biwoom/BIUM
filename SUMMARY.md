@@ -2,16 +2,20 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Blog
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Quickstart](blog/quickstart.md)
+* [Publish your docs](blog/publish-your-docs.md)
 
-## Basics
+## BuddhaGraphic
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Page 1](buddhagraphic/page-1.md)
+
+## DharmaNote
+
+* [Editor](dharmanote/editor.md)
+* [Markdown](dharmanote/markdown.md)
+* [Images & media](dharmanote/images-and-media.md)
+* [Interactive blocks](dharmanote/interactive-blocks.md)
+* [OpenAPI](dharmanote/openapi.md)
+* [Integrations](dharmanote/integrations.md)

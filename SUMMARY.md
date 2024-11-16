@@ -9,8 +9,8 @@
 
 ## BuddhaGraphic
 
-* [Page 1](buddhagraphic/page-1/README.md)
-  * [Page](buddhagraphic/page-1/page.md)
+* [Tool](buddhagraphic/tool/README.md)
+  * [Sound](buddhagraphic/tool/sound.md)
 
 ## DharmaNote
 
